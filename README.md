@@ -6,5 +6,5 @@ in this app I learn:
   - Learn about functions
   - Learn about encapsulation and modularization
 
-<img src='images/screenshots/screenshot1.jpg' width=250>
-<img src='images/screenshots/screenshot2.jpg' width=250>
+<img src='images/sc.jpg' width=200>
+<img src='images/screenshot2.jpg' width=250>
